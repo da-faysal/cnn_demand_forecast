@@ -1,0 +1,1 @@
+CAISO (California Independent System Operator) system demand forecast for next 72 hours (3 days) into the future using CNN. 
